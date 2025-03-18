@@ -1,0 +1,16 @@
+.list-todo-container .list-todo-content {
+  border-top: 1px solid gray;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.list-todo-container .list-todo-content .todo-child {
+  border-bottom: 1px solid gray;
+  margin: 10px 0;
+  padding-bottom: 10px;
+  font-size: 16px;
+}
+.list-todo-container button {
+  cursor: pointer;
+  margin-left: 5px;
+}/*# sourceMappingURL=ListTodo.css.map */
